@@ -36,3 +36,10 @@ header > h1 {
 .download > h3 {
     color: aquamarine;
 }
+
+/* Video */
+
+.video-container {
+    display: flex;
+    justify-content: center;
+}
